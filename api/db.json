@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "This stream is EDIT by user",
+      "description": "user User",
+      "id": 1
+    },
+    {
+      "title": "This is Stream 1",
+      "description": "By Ben",
+      "userId": "117840033891646340890",
+      "id": 2
+    },
+    {
+      "title": "This is another",
+      "description": "Stream",
+      "userId": "117840033891646340890",
+      "id": 3
+    },
+    {
+      "title": "the stream with id of 4",
+      "description": "stream",
+      "userId": "117840033891646340890",
+      "id": 4
+    }
+  ]
+}
